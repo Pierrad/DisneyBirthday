@@ -3,7 +3,7 @@ import './App.css';
 import Lottie from 'react-lottie';
 import { isMobile } from "react-device-detect";
 import { Fireworks } from 'fireworks-js/dist/react'
-import hotel from './assets/img/hotel.jpeg';
+import hotel from './assets/img/disney.jpeg';
 import { ReactComponent as StudioLogo } from './assets/img/studio.svg';
 import { ReactComponent as LandLogo } from './assets/img/land.svg';
 
